@@ -50,6 +50,8 @@ else:
 print("---------------------------------------------------------------")
 
 ```
-## Output  and result
+## Output :
 ![image](https://user-images.githubusercontent.com/94165108/203703556-8aec9ed2-0b22-4f4f-848c-a484a1e844d4.png)
+## Result :
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
